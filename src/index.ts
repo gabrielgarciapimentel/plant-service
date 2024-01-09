@@ -1,8 +1,8 @@
 //Importing project dependancies that we installed earlier
-import * as dotenv from 'dotenv'
-import express from 'express'
-import cors from 'cors' 
-import helmet from 'helmet'
+import * as dotenv from 'dotenv';
+import express from 'express';
+import cors from 'cors';
+import helmet from 'helmet';
 
 
 //App Varaibles 

@@ -1,8 +1,10 @@
 //Importing Libraries 
 import app from "./";
 import dotenv from 'dotenv';
+import validateEnv from '@utils/validateEnv';
 
 dotenv.config();
+validateEnv();
 
 /*
   ===============================================================
